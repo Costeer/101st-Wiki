@@ -1,5 +1,5 @@
+# Cadet Fundamentals
 Welcome to the 101st!
-
 1. Welcome to our Helldivers 2 MilSim Community, where the pursuit of fun and lore intertwines with the spread of democracy like fireworks on the Fourth of July! Here, we're not just gamers; we're freedom fighters in digital camouflage, battling tyranny one virtual battlefield at a time.
 
 By joining our unit you have become a cherished member of our liberty-loving brotherhood. From the depths of the Pacific to the peaks of the Himalayas, we spread the gospel of democracy to all corners of the gaming world. Our missions are as varied as the stars on Old Glory, from weekly deployments that'll have you feeling like a modern-day minuteman to covert recon ops that'll make you a virtual Paul Revere.
@@ -103,4 +103,4 @@ Chain of Command: Army
 | Platoon   | Led by a Lieutenant or a Second Lieutenant. Composed of 4 Squads. 3 of these are led by Sergeants, and 1 is led by a Sergeant Major who is also 2 IC of the platoon .                                                                                 |
 | Squad     | The most basic unit of the 101st, containing 10 members:<br><br>- 8 Private<br>- 1 Corporal (2IC)<br>- 1 Sergeant (IC)                                                                                                                                |
 |           |                                                                                                                                                                                                                                                       |
-# [[Section 2 Deployment Concept Overview|Next Section]]
+# [[Section 2]]

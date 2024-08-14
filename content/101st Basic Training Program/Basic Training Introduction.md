@@ -1,4 +1,4 @@
-## This is just here to demo the wiki if you want to read the basic training go to the resources channel in the discord!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# <span style="color:rgb(255, 192, 0)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span>
 
 
 *For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership”. Inspired by the 51st “Inferno” Battalion.*

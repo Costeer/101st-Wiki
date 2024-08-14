@@ -2,7 +2,10 @@
 title: Welcome to the Wiki of the 101st "Hell" Battalion
 ---
 
-# Welcome this thing is very WIP keep that in mind as you explore 
+# <span style="color:rgb(255, 192, 0)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span>
+
+#### Want to contribute? shoot me a message on discord and make a pull request on the github! 
+
 
 #### New to the 101st?
 Start here: [[Basic Training Introduction]]
@@ -16,3 +19,7 @@ On the left of your screen should be a "Explorer"
 
 this thing helps you navigate the various folders of this wiki
 
+
+![[Pasted image 20240814150235.png]]
+
+# <span style="color:rgb(255, 192, 0)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span> 

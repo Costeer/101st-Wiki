@@ -1,6 +1,7 @@
-*back to [[Section 1 Cadet Fundamentals|Section 1]]*
+## Deployment Concept Overview
+*back to [[Section 1]]*
 
-## Deployment Premise
+### Deployment Premise
 
 When it comes to deployments, we're talking about the pinnacle of organized play, where the bonds of brotherhood are forged in the fires of teamwork! But beware, for in this digital battlefield, the chain of command may shift like the winds of liberty. Whether you're following the orders of a seasoned sergeant or a fresh-faced lieutenant, one thing remains constant: obedience is the name of the game.
 
@@ -14,7 +15,8 @@ In the hallowed halls of our battalion, the process of scheduling a deployment i
 
 But hold your horses, soldier! Before you charge into battle, remember this: deployments must be scheduled at least 4 hours in advance, ensuring every brave soul has an equal shot at joining the fray. Fairness, after all, is the cornerstone of democracy!
 
-Now, should your deployment garner enough eager volunteers to fill every spot, it's your duty to rally the troops! Ping the signed-up soldiers in the 🚨│helldive-departures channel 2 hours and 15 minutes before the mission, reminding them of their sacred duty to defend freedom.
+Now, should your deployment garner enough eager volunteers to fill every spot, it's your duty to rally the troops! Ping the signed-up soldiers in the Helldive-departures 
+channel 2 hours and 15 minutes before the mission, reminding them of their sacred duty to defend freedom.
 
 And for those ambitious enough to host repeated deployments, seek approval from your superiors to be immortalized in the 📆│deployment-schedule channel. Remember, with great power comes great responsibility!
 
@@ -80,4 +82,4 @@ With precision, each member of the unit contributes their insights and observati
 
 The deployment leader compiles a detailed report in the deployment-tallies channel, including screenshots to illuminate the end result. This report fosters transparency and accountability, guiding our unit forward with lessons learned. In these digital records, our camaraderie and spirit endure, resilient in the face of adversity.
 
-# [[Section 3 Communication Fundamentals|Next Section]]
+# [[Section 3|Next Section]]
