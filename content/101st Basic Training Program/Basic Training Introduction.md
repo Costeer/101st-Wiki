@@ -11,4 +11,6 @@ Prepare yourselves, cadets, for a journey filled with more regulations than the 
 
 Forget about the pursuit of happiness; in our program, we pursue physical exhaustion and mental anguish with unmatched fervor. Because nothing screams "liberty" like blistered feet and sleepless nights, am I right?
 
-So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers – you're becoming living embodiments of sarcasm, patriotism, and the Super Earth way.
+So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers – you're becoming the living embodiment of sarcasm, patriotism, and the Super Earth way.
+
+The Basic Training is divided into 5 Sections and can be read in any order alto reading [[Section 1]] first is recommended as it explains some common terminology

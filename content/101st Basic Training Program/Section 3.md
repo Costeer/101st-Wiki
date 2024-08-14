@@ -44,37 +44,38 @@ I killed the <span style="color:rgb(192, 0, 0)">Tank</span>, who was located <sp
 
 Do Not!!!:
 
-“TANK! TANK! TANK!!!”
+“<span style="color:rgb(192, 0, 0)">TANK! TANK! TANK!!!</span>”
 
 The callout is being repeated and only Description is being used. It is neither clear or simple of where the target is. Only repeat if it is of immediate urgency or callout was not heard.
 
-“Ughhhh, Shrieker here”
+“<span style="color:rgb(192, 0, 0)">Ughhhh</span>, Shrieker here”
 
 Unnecessary remarks in callout as well as not specific enough direction of target. Callout is not very important either because the target is not a priority.
 
-“Got Spewer” OR “Dead”
+“<span style="color:rgb(192, 0, 0)">Got Spewer</span>” OR “<span style="color:rgb(192, 0, 0)">Dead</span>”
 
 Neither callout is specific enough and the second does not provide a description, distance, or direction. Where was the Spewer killed? Is the point clear now? Who is dead?
 
-Priority Targets:
+##### Priority Targets:
 
 On the field, not everything has to be a callout. When you want to only provide vital and precise information, it is important to know priority targets to call out in order to be the most useful in a deployment. Targets will be given a priority list to show what you should or should not focus on calling out to your team.
 
-Landmarks: Landmarks are an important location because if they are not on a certain objective, it will be harder to track a certain target. You may utilize command landmarks on maps that are universally understood to better specify your callouts.
+##### Landmarks: 
+Landmarks are an important location because if they are not on a certain objective, it will be harder to track a certain target. You may utilize command landmarks on maps that are universally understood to better specify your callouts.
 
-3.3
-
-Radio Discipline:  
+#### Radio Discipline:  
 
 Radio Discipline is utilized to decrease the amount of excessive and pointless chatter on the comms side of a deployment. When there could potentially be 4 people in a deployment and everyone is talking pointlessly, there will be a lot of radio traffic on the comms especially when someone is trying to give orders. When not talking about callouts or planning attacks, the person should be quiet to maintain clear communication.
 
 As a troop unit on the field, not all callouts will apply to you if that be due to distance or vicinity. It is your job to be able to distinguish what callout or orders are important to you, which one to follow, and which one to ignore. They will not always call you out by name or unit so it is important you understand how it works.
 
-Order Acknowledgement:  
+##### Order Acknowledgement:  
 If you are receiving an order, make sure to comply to your superior to notify with them that you comply with the order:
 
-“Seen” - Say this to show you understand what is being said.
+Seen/Copy - say one of these to show you understand what is being said.
 
-Clear Comms
+##### Clear Comms
 
 “Clear Comms” is something you say when there is traffic in the comms and you need to relay a message of urgency and can be repeated 3 times. When you call out with a loud tone: “Clear Comms” it is a signal to everyone in the voice chat to lock it up and be quiet so they can hear your transmission. This can also be used when the deployment leader requires everyone’s attention however too many people are talking at once. When you hear “Clear Comms”, you must be quiet even if you were in the middle of making a callout.
+
+## Next [[Section 4|Section]]

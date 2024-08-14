@@ -2,8 +2,7 @@
 title: Welcome to the Wiki of the 101st "Hell" Battalion
 ---
 
-# <span style="color:rgb(255, 192, 0)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span>
-
+![[adawda.png]]
 #### Want to contribute? shoot me a message on discord and make a pull request on the github! 
 
 
