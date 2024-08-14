@@ -1,3 +1,6 @@
+## This is just here to demo the wiki if you want to read the basic training go to the resources channel in the discord!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 *For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership”. Inspired by the 51st “Inferno” Battalion.*
 
 Welcome to the 101st Basic Cadet Training (BCT) Program – where we mold mere mortals into the fearless defenders of liberty and democracy. Get ready to embrace the irony of sweating profusely while reciting the Pledge of Allegiance.
