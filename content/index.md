@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Wiki of the 101st "Hell" Battalion
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 
+
+This is a test to see if i can figure out how quartz works :3
+
