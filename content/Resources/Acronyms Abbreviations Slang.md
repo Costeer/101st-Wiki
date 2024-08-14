@@ -15,9 +15,10 @@
 ## Ranks
 **Enlisted:**
 
-| CT  | Cadet   |
-| --- | ------- |
-| PV  | Private |
+| CT  | Cadet      |
+| --- | ---------- |
+| PV  | Private    |
+| SPC | Specialist |
 ***
 **Junior Commanding Officers:**
 

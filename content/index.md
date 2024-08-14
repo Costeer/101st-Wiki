@@ -2,7 +2,7 @@
 title: Welcome to the Wiki of the 101st "Hell" Battalion
 ---
 
-![[adawda.png]]
+![[banner.png]]
 #### Want to contribute? shoot me a message on discord and make a pull request on the github! 
 
 
