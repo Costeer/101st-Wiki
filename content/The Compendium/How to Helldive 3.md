@@ -17,5 +17,7 @@ All weapons have set Armour Penetration levels, being scaled on 0 - 10. Weapons 
 
 You need to consider all pros on cons of a specific Stratagem, and pair it up with another Stratagem that can help fill out a small gap within the area you need filling out, as well as filling out another area. An example would be the GL-21 Grenade Launcher given in the prior paragraph - The Grenade Launcher can damage Bile Titans but only the Bile Sack, however when using the Rocket Pods correctly, the Grenade Launcher can directly damage the Bile Titan. (edited)
 
+***
 *Credit*
 Written by Head of Compendium SGT Styanax 
+***

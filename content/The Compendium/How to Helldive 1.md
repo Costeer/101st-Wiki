@@ -5,8 +5,11 @@ tags:
 ---
 Hello Divers! This is Loadouts, explained. This document will show you what types of weapons there are and in Part 2 will show you how to make a proper loadout. As you may know, weapons can fit into different types at the same time.
 
-**Types:** There are several types of weapons a Diver would bring for a loudout. Generalist [ GL ], Single-Target [ ST ], Mobbing [ MB ], Crowd-Control [ CC ]. 
-
+**Types:** There are several types of weapons a Diver would bring for a loudout. 
+- Generalist [GL]
+- Single-Target [ST]
+- Mobbing [MB]
+- Crowd-Control [CC]
 #### Generalist 
 GL weapons are able to fill out each role to some extent. Good Single Target and Mobbing DMG or DPS, paired with some Stagger and Push. Examples would be the SG-225IE Breaker Incendiary and the SG-8P Punisher Plasma, Terminid and Automaton GL type weapon respectively. Each has CC capabilites, Incendiary and high Stagger, alongside mobbing groups of enemies and smashing single targets. Having these types of weapons can make a mission a lot better, as they fill out plenty of roles. 
 
@@ -19,5 +22,7 @@ MB weapons as stated in the name, are able to kill several or a dozen enemies fa
 #### Crowd-Control 
 CC weapons are found with different categories, these weapon are able to Stagger, Push, and Flinch enemies EFFECTIVELY, unlike the Slugger... Weapons with strong CC capabilties would be the SG-8 Punisher, able to push enemies back effectively.
 
+***
 *Credit*
 Written by Head of Compendium SGT Styanax 
+***

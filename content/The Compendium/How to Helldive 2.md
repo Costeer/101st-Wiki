@@ -15,5 +15,7 @@ Depending on which enemies you're facing, each type of weapon may be prioritised
 _**How to Pair Weapons**_ 
 Many weapons can have synergy, having weapons that match together because they fill out each other's weaknesses is a good way to find how to pair a weapon. The SG-8 Punisher is good at Stagger and Single-Target killing but is unable to kill each enemy fast enough to fight a horde quickly, pairing it with a mobbing weapon like the GL-21 Grenade Launcher would be extremely helpful it, covering its mobbing weakness.
 
+***
 *Credit*
 Written by Head of Compendium SGT Styanax 
+***
