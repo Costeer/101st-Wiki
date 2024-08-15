@@ -12,10 +12,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: false,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "costeer.github.io/101st-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
