@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "costeer.github.io/101st-Wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/00-Meta", "private", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

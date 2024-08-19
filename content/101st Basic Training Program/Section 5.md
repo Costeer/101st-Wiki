@@ -71,3 +71,6 @@ In the case that it is not possible for the pointman to move far enough to avoid
 This command is an alternative to the Breach Doorway command for use with corners, the main distinction being that the support begins on the same side as the pointman.
 
 ![[Pasted image 20240814154505.png]]
+
+## Want to learn more about the channels in the Server?
+[[Chanel Overview]]

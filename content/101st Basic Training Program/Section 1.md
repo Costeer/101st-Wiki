@@ -104,4 +104,5 @@ Chain of Command: Army
 | Squad     | The most basic unit of the 101st, containing 10 members:<br><br>- 8 Private<br>- 1 Corporal (2IC)<br>- 1 Sergeant (IC)                                                                                                                                |
 |           |                                                                                                                                                                                                                                                       |
 |           |                                                                                                                                                                                                                                                       |
-## Next [[Section 2|Section]]
+## Next [[Section 2#Deployment Concept Overview|Section]]
+

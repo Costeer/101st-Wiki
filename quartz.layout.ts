@@ -30,15 +30,16 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
 
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),    
+
   ],
   afterBody:[
-  
+      Component.Graph(),
   ],
   right: [
-    Component.Graph(),
+    
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
 }
 
