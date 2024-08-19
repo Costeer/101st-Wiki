@@ -3,11 +3,15 @@ Deployments can sometimes be hard to understand so here is a quick rundown
 ### If you want to join a deployment
 
 ![[Pasted image 20240819190706.png|300]]
+
+
+
 this is the channel to look for one 
 
 in this channel you will find messages of SPC and higher
 they look something like this:
 ![[Pasted image 20240819190831.png]]
+
 this is a deployment message lets break it down into smaller pieces to make it easier to explain 
 
 at the top you can see who posted the deployment and what it is called
@@ -21,16 +25,20 @@ underneath the title you will find the **Event info** tab where you can see for 
 this deployment is for the 19.08.2024 at 21:00 this time changes based on your timezone so you don't have to worry about accounting for that
 
 Underneath that you will find the description:
+
+
 ![[Pasted image 20240819191315.png|350]]
 
 this is **required to read** because sometimes deployments are only for a specific squad or require specific loadouts
 
 ***
 *like in this example:*
+
 ![[Pasted image 20240819201947.png|550]]
 ***
 
 Under that you will see the signups
+
 ![[Pasted image 20240819191446.png]]
 
 Deployments have a cap of 4 players (just like the game)
@@ -44,7 +52,9 @@ backups are called if players don't attend the deployments have to leave and so 
 If you have read the description and checked that you are available at the time of the deployment you can sign up
 
 under the deployment message you can see 7 buttons:
+
 ![[Pasted image 20240819192008.png|450]]
+
 the first 5 buttons are to sign up as a specific role in the deployment 
 these rolls don't matter if the host doesn't use the class system witch will be in the description 
 
@@ -56,6 +66,7 @@ and the 7th to leave the deployment.
 you will get pinged 2 times in the departure channel before the deployment 
 
 ![[Pasted image 20240819192419.png|350]]
+
 you get one ping normaly 1 hour before
 and one ping 20 mins before
 
