@@ -8,6 +8,7 @@ not technically channels just there for looks
 ## Onbording Stuff
 
 ![[Pasted image 20240819182128.png]]
+
 everything except for sanctions is a one time read and you don't have to really pay attention to these 
 
 ![[Pasted image 20240819182305.png]]
@@ -40,6 +41,7 @@ this is where technical things about the game like strategies and server tech st
 The "galactic war status" channel contains an updating message that displays the current status of the war like mayor orders
 
 *This is what it looks like:*
+
 ![[Pasted image 20240819183051.png]]
 ![[Pasted image 20240819183116.png]]
 
@@ -88,11 +90,13 @@ this is where you can request a helmet if you are a Sargent or if you aren't che
 ***
 
 ![[Pasted image 20240819185232.png]]
+
 loa request is where you write a message to let the people in the server now if you are unavailable **PLEASE ONLY MAKE A LOA REQUEST IF YOU WILL BE GONE FOR MORE THAN 5 DAYS**
 
 ***
 
 ![[Pasted image 20240819185451.png]]
+
 the suggestions channel is where you can make suggestions about the server and have them rejected by high command
 
 the bot commands channel is where you use the bots on the server

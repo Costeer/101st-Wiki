@@ -24,11 +24,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   header: [
     Component.PageTitle(),
-    Component.Search(),
     Component.Darkmode(),
   ],
   left: [
-
+    Component.Search(),
+    
+    Component.DesktopOnly(Component.Explorer()),
     Component.MobileOnly(Component.Spacer()),
 
   ],
@@ -39,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.DesktopOnly(Component.Explorer()),
+    
   ],
 }
 
