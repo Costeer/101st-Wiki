@@ -1,4 +1,4 @@
-![[fingerprintingImmage.png|500]]
+![[fingerprintingImmage.png|600]]
 
 ## 101st “Hell” Battalion
 **Military Personnel File**
