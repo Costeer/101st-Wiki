@@ -5,11 +5,11 @@ title: Welcome
 ![[newBannerTrans.png]]
 This is the wiki of the 101st "Hell" Battalion the most active Helldivers 2 Millsim Server
 
-#### ![[newtothe101stbutton.png]]
+this wiki uses a lot of hyperlinks to link different pages together if you have never used anything like this you can look at this [[Wiki Guide]] this should cover most basic questions on the functions of the wiki and how to contribute 
 
-Start here: [[Newbie Overview]]
+![[header(2).png|350]]
+- Start here: [[Newbie Overview]]
 
-#### Need to get an overview of the channels?
 go here [[Chanel Overview]]
 
 # Any feedback/questions/suggestions message me (Costeer) on discord

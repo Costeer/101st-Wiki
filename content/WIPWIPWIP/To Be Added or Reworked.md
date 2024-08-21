@@ -22,4 +22,7 @@
 - [x] add How do deployments work from the side of the attendees
 - [x] explorer left
 - [x] remove "00 - Meta" folder
-- [ ] 
+
+
+
+https://www.figma.com/community/file/1377955132379675748

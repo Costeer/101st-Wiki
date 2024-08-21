@@ -28,4 +28,4 @@ Squad Composition:
 + MISSION RESULT: Success
 ```
 
-**Additional Notes:**
+**Additional Notes:** 
