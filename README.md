@@ -2,6 +2,8 @@
 
 ## The official wiki oft the 101st "Hell" battalion 
 
+if you want to start to contribute or if you have suggestions on additions message me (Costeer) on discord!
+
 #### build using Quartz
 
 Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
