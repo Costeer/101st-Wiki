@@ -1,4 +1,3 @@
-
 ![[Diagonals(2).png]]
 
 Deployments can sometimes be hard to understand so here is a quick rundown 
