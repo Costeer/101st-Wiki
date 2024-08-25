@@ -12,7 +12,7 @@ this wiki uses a lot of hyperlinks to link different pages together if you have 
 
 go here [[Chanel Overview]]
 
-# Any feedback/questions/suggestions message me (Costeer) on discord
+# Any feedback/questions/suggestions message (Costeer or Titanchell) on discord
 
 # <span style="color:rgb(255, 255, 0)"><span style="color:F9FF21)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span> </span>
 
