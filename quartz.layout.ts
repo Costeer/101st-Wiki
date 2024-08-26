@@ -24,7 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   header: [
     Component.PageTitle(),
-    Component.Darkmode(),
   ],
   left: [
     Component.Search(),
