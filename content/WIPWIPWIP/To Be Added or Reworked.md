@@ -4,7 +4,7 @@
 - run down of channel structure (InWorks)
 - history of strike events
 - integrate battalion sheet (?)
-- gameplay tutorial/tips collection
+- gameplay tutorial/tips collection (embedded yt video and training manula tips in between)
 - (completly fucking mental) weekly helldivers magazin summarizing events that happend reading tallys and stuff (blame Lutin/Frog{he has big shoulders})
 
 	 ![[Pasted image 20240819230635.png]]
