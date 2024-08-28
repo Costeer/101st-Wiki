@@ -10,11 +10,8 @@ this wiki uses a lot of hyperlinks to link different pages together if you have 
 ![[header(2).png|350]]
 - Start here: [[Newbie Overview]]
 
-go here [[Chanel Overview]]
+Any feedback/questions/suggestions message me (Costeer) on discord
 
-# Any feedback/questions/suggestions message me (Costeer) on discord
-
-# <span style="color:rgb(255, 255, 0)"><span style="color:F9FF21)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span> </span>
 
 #### How to contribute?
 shoot me a message on discord (costeer) and make a pull request on [Github](https://github.com/Costeer/101st-Wiki)! 
