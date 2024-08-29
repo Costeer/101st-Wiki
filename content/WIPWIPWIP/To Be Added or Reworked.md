@@ -16,6 +16,14 @@
 	- Banner art
 	- 
 - mobile site ver.
+- Basic Training Programm
+	- sec 2 Joining a deployment has a channel in it that doesn't exist
+	- sec 2 reheinfolge mabey link the Deployments explained in sec 2 when talking abt deployments
+	- ranks in sec 1 wrong abreviations and missing specialist
+	- formatting in sec 1
+	- classes missing in sec 2 
+	- Rules aren't up to date in sec 2
+
 
 
 ## Done
