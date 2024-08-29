@@ -1,4 +1,4 @@
-## T.B.A,.R.o.C
+## To Be Added, Reworked or Considered
 
 #### Add!
 - history of strike events (in works/planning)
@@ -7,9 +7,8 @@
 
 #### Rework!
 - Landing page (20% done)
-- look of tables (CSS)
-	- Banner art
-	- 
+- Banner art
+- 
 - mobile site ver. (low prio)
 - run down of channel structure (basics done needs touch ups)
 
@@ -20,6 +19,7 @@
 - [x] add How do deployments work from the side of the attendees
 - [x] explorer left
 - [x] remove "00 - Meta" folder
+- [x] look of tables 
 
 
 

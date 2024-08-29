@@ -1,3 +1,41 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+[saved-theme="dark"] {
+  table {
+    width: 90%;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 1px solid #A19084;
+    border-left: 1px solid #A19084;
+    border-right: 1px solid #A19084;
+    
+    td {
+      padding: 5px;
+      text-align: center;
+      border-bottom: 1px solid #A19084;
+      border: 1px solid #A19084;
+    
+    }
+
+    th {
+    text-align: center; /* Center aligns the text in header cells */
+    padding: 8px; /* Add padding for spacing */
+    font-size: 16.5px;
+    border: 1px solid #A19084;
+    
+    }
+
+    caption {
+      padding: 1px;
+      font-size: larger;
+      caption-side: top;
+    }
+  }
+  img {
+    margin: 0px;
+ }
+}
+
+
