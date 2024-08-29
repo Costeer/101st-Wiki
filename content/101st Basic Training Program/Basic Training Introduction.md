@@ -1,5 +1,7 @@
+# <span style="color:rgb(255, 192, 0)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span>
 
-<span style="color:rgb(255, 255, 0)">For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership”. Inspired by the 51st “Inferno” Battalion.</span>
+
+*For use by all members of the 101st “Hell” Battalion. Completion of this program ensures a new cadet gains membership”. Inspired by the 51st “Inferno” Battalion.*
 
 Welcome to the 101st Basic Cadet Training (BCT) Program – where we mold mere mortals into the fearless defenders of liberty and democracy. Get ready to embrace the irony of sweating profusely while reciting the Pledge of Allegiance.
 
@@ -9,8 +11,6 @@ Prepare yourselves, cadets, for a journey filled with more regulations than the 
 
 Forget about the pursuit of happiness; in our program, we pursue physical exhaustion and mental anguish with unmatched fervor. Because nothing screams "liberty" like blistered feet and sleepless nights, am I right?
 
-So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers you're becoming the living embodiment of sarcasm, patriotism, and the Super Earth way.
+So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers – you're becoming the living embodiment of sarcasm, patriotism, and the Super Earth way.
 
-<span style="color:rgb(148, 148, 148)">The Basic Training is divided into 5 Sections and can be read in any order alto reading</span>
-#### [[Section 1]] 
-<span style="color:rgb(148, 148, 148)">first is recommended as it explains some common terminology</span> 
+The Basic Training is divided into 5 Sections and can be read in any order alto reading [[Section 1]] first is recommended as it explains some common terminology
