@@ -11,7 +11,7 @@ this wiki uses a lot of hyperlinks to link different pages together if you have 
 - Start here: [[Newbie Overview]]
 
 
-| ![[Wiki Icons.png\|150]] | ![[Wiki Icon WIP(2).png\|150]] | ![[Wiki Icon Medals.png\|150]] |
+| ![[Wiki Icons.png\|150]] | ![[Wiki Icon WIP.png\|150]] | ![[Wiki Icon Medals.png\|150]] |
 | ------------------------ | ------------------------------ | ------------------------------ |
 | [[Chanel Overview]]      | [[Tasks]]                      | [[Medals]]                     |
 
