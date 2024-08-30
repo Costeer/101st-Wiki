@@ -13,4 +13,4 @@ Forget about the pursuit of happiness; in our program, we pursue physical exhaus
 
 So congratulations, cadets, on embarking on this epic journey of self-discovery and profound suffering. Remember, as you slog through the trenches of BCT, you're not just becoming soldiers – you're becoming the living embodiment of sarcasm, patriotism, and the Super Earth way.
 
-The Basic Training is divided into 5 Sections and can be read in any order alto reading [[Section 1]] first is recommended as it explains some common terminology
+The Basic Training is divided into 5 Sections and can be read in any order alto reading [[Cadets Fundamentals]] first is recommended as it explains some common terminology
