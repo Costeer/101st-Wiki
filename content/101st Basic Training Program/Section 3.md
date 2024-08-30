@@ -8,7 +8,7 @@ When someone requests a Situation Report or Sit-Rep, they want to know how the s
 
 #### Sit-Rep Example:
 
-**Deployment Leader**: *“I need your squad to move over to the left flank of Echo and approach the point from the rear”*
+Deployment Leader: *“I need your squad to move over to the left flank of Echo and approach the point from the rear”*
 
 **Fireteam Leader**: “*Seen, moving now”*
 

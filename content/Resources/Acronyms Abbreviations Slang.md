@@ -12,17 +12,12 @@
 | IC           | In Command                |
 | 2IC          | Second in Command         |
 
-## Acronyms
-
-| Fireteam Leader | Leads Part of the Squad while in a Deployment; not Deployment Leader |
-| --------------- | -------------------------------------------------------------------- |
-
 ## Ranks
 **Enlisted:**
 
-| CDT | Cadet      |
+| CT  | Cadet      |
 | --- | ---------- |
-| PVT | Private    |
+| PV  | Private    |
 | SPC | Specialist |
 ***
 **Junior Commanding Officers:**
@@ -54,6 +49,7 @@
 ***
 Vehicles
 
-|     | TO BE ADDED |
+|     |             |
 | --- | ----------- |
+|     | TO BE ADDED |
 ***
