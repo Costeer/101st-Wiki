@@ -12,7 +12,7 @@ When someone requests a Situation Report or Sit-Rep, they want to know how the s
 
 **Fireteam Leader**: *“We are approaching the objective now however are facing a lot of bugs on our left flank. Will be able to move to the rear position in a few minutes"*
 
-(A the Deployment Leader is the host of the operation while the Fireteam Leader is in command of a part of the squad while its split up more Acronyms to be used in the server can be found in [[Acronyms Abbreviations Slang]])
+(A the Deployment Leader is the host of the operation while the Fireteam Leader is in command of a part of the squad while its split up. More Acronyms to be used in the server can be found in [[Acronyms Abbreviations Slang]])
 ### 3D’s of Callouts
 
 It is vital that if you want information conveyed clearly and thoroughly, you need to have an understanding of the 3D’s of callouts or some variation of the 3. Every callout must follow this format however orders may have different SoPs when speaking. **DO NOT repeat yourself** unless you feel like you weren’t heard or it is a matter or urgency. You do not want to clutter the comms.

@@ -12,11 +12,9 @@ this wiki uses a lot of hyperlinks to link different pages together if you have 
 
 go here [[Chanel Overview]]
 
+# Any feedback/questions/suggestions message (Costeer or Titanchell) on discord
 
-| ![[Wiki Icon Medals.png\|150]] | ![[Wiki Icons Chat.png\|150]] | ![[Wiki Icon WIP.png\|150]] |
-| ------------------------------ | ----------------------------- | --------------------------- |
-| [[Medals]]                     | [[Chanel Overview]]           | [[Wiki Guide]]              |
-
+# <span style="color:rgb(255, 255, 0)"><span style="color:F9FF21)">WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP </span> </span>
 
 #### How to contribute?
 shoot me a message on discord (costeer) and make a pull request on [Github](https://github.com/Costeer/101st-Wiki)! 
