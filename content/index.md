@@ -10,7 +10,7 @@ this wiki uses a lot of hyperlinks to link different pages together if you have 
 ![[header(2).png|350]]
 - Start here: [[Newbie Overview]]
 
-go here [[Channel Overview]]
+go here [[Chanel Overview]]
 
 # Any feedback/questions/suggestions message (Costeer or Titanchell) on discord
 
