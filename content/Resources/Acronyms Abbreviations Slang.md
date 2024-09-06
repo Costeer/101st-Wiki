@@ -3,7 +3,6 @@
 | Abbreviation | Meaning                   |
 | ------------ | ------------------------- |
 | Seen         | Copy, Understood, Yes     |
-| CC           | Clear Comms               |
 | CO           | Commanding Officer        |
 | JCO          | Junior Commanding Officer |
 | SCO          | Senior Commanding Officer |
@@ -40,7 +39,7 @@
 ***
 **Commanders**
 
-| CP  | Captain             |
+| CC  | Company Captain     |
 | --- | ------------------- |
 | CM  | Major               |
 | BC  | Battalion Commander |

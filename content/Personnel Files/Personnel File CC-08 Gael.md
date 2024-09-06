@@ -3,9 +3,9 @@
 ## 101st “Hell” Battalion
 **Military Personnel File**
 
-|                                                                              |                                                                           |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Codename: CPT-08 “Gael”<br>Name:  ██████████<br>Rank: Captain<br>DOB: ██████ | “Ad Victoriam Pro Terra Aeterna”    <br>                   -CPT-08 “Gael” |
+|                                                                              |                                                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Codename: CPT-08 “Gael”<br>Name:  ██████████<br>Rank: Captain<br>DOB: ██████ | “Ad Victoriam Pro Terra Aeterna”    <br>                   -CC-08 “Gael” |
 
 **Duties:**
 Captain of the Eurasian Company, he is a tough, but strong leader. Leading his many platoons to victory no matter the adversary, from the scorching temperatures of Hellmire, dense jungles of Malevelon creek, to the freezing temperatures of Marfark. He uses real-life tactics to strategize in tough situations, saving the lives of many, divers or civilians apart.

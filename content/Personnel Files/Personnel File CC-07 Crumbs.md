@@ -3,9 +3,9 @@
 ## 101st “Hell” Battalion
 **Military Personnel File**
 
-|                                                                                  |                                                                                                                                      |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Codename: CPT-07 “Crumbs”<br>Name:  ████████████<br>Rank: Captain<br>DOB: ██████ | “You know Only thing I get when Super Earth offers <br>me extra juice for good work? It's always apple juice.”  <br>-CPT-07 “Crumbs” |
+|                                                                                  |                                                                                                                                     |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Codename: CPT-07 “Crumbs”<br>Name:  ████████████<br>Rank: Captain<br>DOB: ██████ | “You know Only thing I get when Super Earth offers <br>me extra juice for good work? It's always apple juice.”  <br>-CC-07 “Crumbs” |
 
 Duties:
 

@@ -27,7 +27,7 @@
 
 | Platoon     | Squad                     | Rank              | Callsign               |
 | ----------- | ------------------------- | ----------------- | ---------------------- |
-| Highcommand |                           | Capitain          | CPT-08 "Gael"          |
+| Highcommand |                           | Capitain          | CC-08 "Gael"           |
 | Penguin     | Senior Commanding Officer | Lieutenant        | LT-13 "Stells"         |
 | Penguin     | Pocket                    | Sergeant-Major    | SM-8865 "Miget"        |
 | Penguin     | Delta                     | Sergeant          | SGT-1337 "Raian"       |
