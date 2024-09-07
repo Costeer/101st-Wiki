@@ -22,19 +22,6 @@ As we embark on our noble quest for victory, let's not forget the rules of engag
 
 Let these rules guide you as we march forward, united in purpose and steadfast in our resolve to crush tyranny beneath our collective boot!
 
-## Joining a Deployment
-
-A 101st Deployment can only be attended by members that finished the Bootcamp and higher. Deployments can range from a fireteam to a company order wide deployment.
-
-To join a deployment you must do the following:
-1. On the day of reckoning, ensure you join the battlefield with the punctuality of a Messenger of the Ministry of security when the Bots come. Failure to arrive promptly may result in being left behind, so don't dawdle!
-
-2. Take the initiative and add the deployment leader as a friend if you haven't already done so. When the call to arms is sounded, request an invitation to the group Immediately.
-
-3. Once the troops are assembled and ready for action, the deployment leader will seize the moment to outline the rules of engagement. Pay attention, soldiers, for knowledge is power on the battlefield!
-
-With these steps etched in your mind like the Planet on our nation's flag, you're ready to march into battle with the confidence of a true patriot. Onward, to victory!
-
 ## Following Leadership
 
 Within our ranks, every troop is a vital cog in the machinery of freedom, bound by duty and honor to heed the commands of their superiors. It is not merely a responsibility, but a sacred obligation, to rally alongside our brothers-in-arms and march forward as one cohesive force. Together, we strive tirelessly towards a common goal, driven by the noble ideals of liberty and justice for all. Let the spirit of camaraderie and unity guide our every step, for in our unity lies the strength to overcome any obstacle and emerge victorious on the battlefield of freedom!
@@ -47,27 +34,5 @@ With precision, each member of the unit contributes their insights and observati
 
 The deployment leader compiles a detailed report in the deployment-tallies channel, often including screenshots or Recordings to illuminate the end result. This report fosters transparency and accountability, guiding our unit forward with lessons learned. In these digital records, our camaraderie and spirit endure, resilient in the face of adversity.
 
-## Scheduling a deployment
-
-In the hallowed halls of our battalion, the process of scheduling a deployment is as sacred as the stripes on Old Glory! If you find yourself in the esteemed position of Commanding Officer, you wield the power to orchestrate missions that'll make Meridia look like a Playground.
-
-But hold your horses, soldier! Before you charge into battle, remember this: deployments must be scheduled at least 1 hours in advance, ensuring every brave soul has an equal shot at joining the fray. Fairness, after all, is the cornerstone of democracy!
-
-Now, should your deployment garner enough eager volunteers to fill every spot, it's your duty to rally the troops! Ping the signed-up soldiers in the Helldive-departures 
-channel at 1 hours and at 15 minutes before the mission, reminding them of their sacred duty to defend freedom.
-
-
-To kickstart the deployment process, simply type:
-
-/event create [title] [time-start]
-
-For instance:
-
-/event create Deployment 2024-03-26 20:00
-
-But heed this warning, comrades: only one class per deployment is permitted. Let's keep the battlefield balanced, shall we?
-
-Once the dust settles, don't forget to document your heroic deeds in the 📋│deployment-tallies channel. For in the annals of history, it's the written word that immortalizes the deeds of patriots!
-
-##### More Information on Deployments: [[Deployments explained]]
+##### More Information on how to attend Deployments: [[Deployments explained]]
 ## Next [[Communications Fundamentals]]
