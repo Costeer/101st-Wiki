@@ -34,7 +34,7 @@
 | Penguin     | Warsteel                  | Sergeant          | SGT-8888 "Eight"       |
 | Penguin     | Deceptive Harlequins      | Sergeant          | SGT-1730 "Tea"         |
 | Brother     | Senior Commanding Officer | Second-Lieutenant | SL-30 "Orcpunx"        |
-| Brother     | Imperius                  | Sergeant-Major    | SM-8241 "Ain"          |
+| Brother     | Imperius                  | Sergeant-Major    |                        |
 | Brother     | Libertys Angels           | Sergeant          | SGT-9450 "Xarse"       |
 | Brother     | Archangel                 | Sergeant          |                        |
 | Brother     | Hellzone                  | Sergeant          | SGT-1405 "Styanax"     |
@@ -43,6 +43,11 @@
 | Toothless   | Quecksilber               | Sergeant          | SGT-2274 "Costeer"     |
 | Toothless   | Gunther                   | Sergeant          | SGT-0908 "Lumberfootz" |
 | Toothless   | Krieg                     | Sergeant          |                        |
+| Imperius    | Senior Commanding Officer | Second-Lieutenant | SL-22 "Ain"            |
+| Imperius    | Patris                    | Sergeant-Major    |                        |
+| Imperius    | Fillis                    | Sergeant          |                        |
+| Imperius    | Spiritus                  | Sergeant          |                        |
+| Imperius    | Sanctus                   | Sergeant          |                        |
 
 ### Ukill-Company
 

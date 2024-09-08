@@ -28,11 +28,11 @@ Description </span>: The description of the target itself or the subject you are
 
 ###### Callout Examples:
 
-<span style="color:rgb(192, 0, 0)">There is a Bile Titan </span><span style="color:rgb(0, 176, 80)">on Extraction</span>, <span style="color:rgb(112, 48, 160)">across the map!</span>
+<span style="color:rgb(192, 0, 0)">There is a Factory Strider </span><span style="color:rgb(0, 176, 80)">on Extraction</span>, <span style="color:rgb(112, 48, 160)">Far away!</span>
 
-<span style="color:rgb(192, 0, 0)">Multiple Heavy contacts</span> contacts on <span style="color:rgb(0, 176, 80)">my Ping.</span>
+<span style="color:rgb(192, 0, 0)">Multiple Devastators</span> contacts on <span style="color:rgb(0, 176, 80)">my Ping.</span>
 
-<span style="color:rgb(192, 0, 0)">Tank is low on health</span> <span style="color:rgb(112, 48, 160)">near caves</span> <span style="color:rgb(0, 176, 80)">under F3!!</span>
+<span style="color:rgb(192, 0, 0)">Bile Titan 2 Rockets to the face</span> <span style="color:rgb(112, 48, 160)">South West</span> <span style="color:rgb(0, 176, 80)">under F3!!</span>
 
 Objective is all clear, no major threats, only <span style="color:rgb(192, 0, 0)">a few Hunters</span> <span style="color:rgb(0, 176, 80)">north of the zone.</span>
 
