@@ -1,5 +1,6 @@
 ### Basics 
 - Use a [[00 Default|template]]
+- Read this Guide by SM Ain [[Deployment Signup Course]]
 - take notes on the deployment you can also record the deployment but remember to let everyone now that you are doing that 
 - write it in a note taking app and not in the channel itself
 
