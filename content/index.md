@@ -28,5 +28,6 @@ At the current time the Wiki is not finished and might still contain some mistak
 - LT Stells [[How to Tallies]]
 - SGT Styanax (Head of the Compendium)
 - CC Gael (Project Lead)
+- SM Ain [[Deployment Signup Course]]
 #### How to contribute?
 Make a pull request on [Github](https://github.com/Costeer/101st-Wiki)! 
