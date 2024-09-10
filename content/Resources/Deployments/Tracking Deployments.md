@@ -1,7 +1,7 @@
-this is a suggestion on how to keep track on deployments You are not required to keep track but it might be fun to know
+this is a suggestion on how to keep track on deployments You are not required to keep track but it might be helpful to know
 
 #### Deployments done in the 101st
-I am also in all squads (obviusly)
+I am also in all squads (obviously)
 
 | Date/Time                        | Planet         | Diff | Squad                            | Leader   | Operation                             |
 | :------------------------------- | :------------- | :--- | :------------------------------- | :------- | :------------------------------------ |
@@ -21,6 +21,6 @@ I am also in all squads (obviusly)
 | 2024-07-14 00:00<br>UTC +2       | Matar Bay      | T8   | Miku, Delta                      | Eight    | Nightfall                             |
 | 2024-07-15 20:20 GMT+7           | Martale        | T8   | Delta,<br>Rhubarb                | Tequila  | Major Order Priority                  |
 | 2024-07-14, 17:00, UTC +2        | Marfrak        | T7   | Eight,<br>Miku                   | Stells   | "Aspicot" specialist training costeer |
-|                                  |                |      |                                  |          |                                       |
+
 
 

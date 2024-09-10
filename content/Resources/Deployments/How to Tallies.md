@@ -1,6 +1,7 @@
 ### Basics 
 - Use a [[00 Default|template]]
 - take notes on the deployment you can also record the deployment but remember to let everyone now that you are doing that 
+- write it in a note taking app and not in the channel itself
 
 ### Suggestions on how to Write the Tallie
 - Prioritize the things you write down 
@@ -9,4 +10,3 @@
 
 ****
 thanks to Second Lieutenant Stells for her contributions to this Article
-

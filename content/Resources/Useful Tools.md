@@ -14,8 +14,16 @@
 | ------------------------------------ |
 | https://discord-date.shyked.fr/      |
 
+## Helldiver Training Manual
+
+| ![[Pasted image 20240910164658.png]]  |
+| ------------------------------------- |
+| https://helldiverstrainingmanual.com/ |
+
+## Helldivers Companion
+
+| ![[Pasted image 20240910165742.png]] |
+| ------------------------------------ |
+| https://helldiverscompanion.com/#    |
 
 
-https://helldiverstrainingmanual.com/
-
-https://helldiverscompanion.com/#
