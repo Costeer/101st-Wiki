@@ -21,16 +21,16 @@ First of head into the “Deployment-Signup” Channel within the Discord, this 
 
 “/Event Create” and click on the event create Option. Afterwards you should see this:  
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdEk8TBu7bv44_ZsJUgTNOtor809p6sVZJ0LYciY39efusJpyN-nvwFDNLORZqLuMrEfpwInNEYQIeGHoHzhP4lv-KdQJ5a1k8qmR7kN2GEM7gzBjlfu0LRytODBGFemTm_gLEWQX3pgJPzvO0C8P_jpiR1?key=W5XAO3bVFvSLejVCAHP2MA)  
+![[event_create.png]]
 
 Event Creations are split up into 3 parts:  the title, the event start and the Description.  
 The title can be anything you want to call it for Example you could just type Operation:“name” in it but this is solely up to you.  
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXer997s5-Cj0YScG93Xv4lLIwyzhbplHdLNbT9M2OlombyawVDRPohqRlM8CgYxiaJYhoi9oX1Fx5V0EztdL36-PJ4s9T741J3gSHB0FLO2TPJjQ6XbFLAeOfx-l9KhnGl1weBf-ADAOCk6669U32hJ6DU?key=W5XAO3bVFvSLejVCAHP2MA)
+![[title.png]]
 
 Afterwards you set the Time of the Deployment. You will type in the “event_start” Option in  this format: year-month-day time an example would be this:  
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7O3Vtnmp2rO2lkaDP7oU2NcxLy0sxKTYtyfhJJ0pgz30QJemWqK8hNMvHKI_qA8d3IHH4pD4gfWf29evd37Cfpv92kFyA7RBJ1X4KZx2xHJJLT1Z3JcAXS0-JXDIyCXsm7VDP5WpJWRnAfuxRZwytUweo?key=W5XAO3bVFvSLejVCAHP2MA)
+![[event_start.png]]
 
 **Be advised:** The time has to be written in the 24 Hour Clock in UTC+2.
 
@@ -42,10 +42,14 @@ If for example you are one hour ahead in UTC+3 and it is 24:00 for you and the n
 Last but not least you can add a Description by clicking in the Chat Bar outside of any of the already given templates. There you see Options of what you can do but the only important one is the “Description” option. Click this again and you will add a field for your Description. In this you can type anything you want to do in your Deployment.  
 For example, if you wish to host a Deployment on the Automaton front on Difficulty 9 with only Barrages you could type it up like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYGhkycyaMzuV4_E1y6IKhxifJpL0j2HKET9SklGWEYr2xQJPev4GajOTh6bi6xphg3xZ1h1z2elBoiSDjdSsRWkmQU1-CT4mZ5iLaZ9eyPU4-bHeNirS_Dzr3LC64eiF7R6i4mqnUW3TsBrezrrnQrw0V?key=W5XAO3bVFvSLejVCAHP2MA)
 
 After you have done all of the Above your deployment Signup should look something like this:
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcw1dyMpKl8t6ATasX8LCqCBFTUalWf7UkniYBSNxNR5q8pCZsRCu0sURYywwJbFJXEM4uUUMrOrd911gUdibcUsGnWrqzghbVuDVVH0m02MEBFDTTt8n4pze6Gsp8TaSjvMwIEVRE7AUYBnele-N3knLf_?key=W5XAO3bVFvSLejVCAHP2MA)
+
+![[description_long.png]]
+
+or like this
+
+![[description_short.png]]
 
 Once you have done all of these Steps you can just hit enter and the Bot will automatically create your Signup and all you have left to do is be sure to Join your own Deployment.
 
@@ -58,13 +62,13 @@ Changes:
 
 If you need to change anything within your existing Deployment just go into the Chat bar again and type in “event edit”, click on the Option which will prompt a window that should look like this:  
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflE7SAUt_8rnczEcatIII308GZE36D_hcihj57NILsoXGmqBo7iV9pzb3Aj9yU_G0QEHSlzHS8tI-sb53dTw6LbZmUEip6UIS1P_rJFJ1rfxRnCapaHm_9b7-M3nfGdPld6WBAubKqbd7tteuycjRILh8?key=W5XAO3bVFvSLejVCAHP2MA)
+![[event_edit.png]]
 
 Here you have 3 fields that need to be filled out. First is the event id. If you click on it it should display all currently ongoing deployments. If you wish to find your deployment then you just need to click on the Deployment that has your name in it. After this is done you can click on the certain “Field” you want to change, for example if i wish to change the time of the deployment due to me being unable to host at the given time i can click on the “event start” Option, which will then prompt me to assign a new value to the event start time.
 
 You will have to Type in the entire time again in the format given on the previous page. Let’s say i want to change the time from 15:00 to 16:00 I’d have to type it like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfukU8JqTnX0B6jJYorapSLfxr7doReKbrjY_xpGg8y8HEpbNdtF6wBBkmzDrdhtjo6872ZPITFXkTgDOv67NIwVCOGhimLUBnP92zDO5OlrQDi4eckIpfsKeHFqqjsD8cLricIwBF3TFTMugTz1wfi-qrj?key=W5XAO3bVFvSLejVCAHP2MA)
+![[event_edit.png]]
 
 The same goes for the Description and title. If you want to add something to your description then you need to copy the existing Description and add anything in it.
 
